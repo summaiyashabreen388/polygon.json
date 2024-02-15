@@ -1,10 +1,15 @@
 "url": "https://coinmarketcap.com/currencies/ethereum/"
 
 "url": "https://www.coingecko.com/en/coins/ethereum"
+
 "url": "https://defillama.com/chain/Ethereum"
+
 "url": "https://dappradar.com/chain/ethereum"
+
 "url": "https://www.cryptocompare.com/coins/eth/overview"
+
 "url": "https://www.tradingview.com/symbols/ETHUSD/"
+
 "url": "https://www.coindesk.com/price/ethereum/"
 "url": "https://www.investing.com/crypto/ethereum/eth-usd"
 "url": "https://www.marketwatch.com/investing/cryptocurrency/ethusd"
