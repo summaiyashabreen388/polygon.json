@@ -1,4 +1,5 @@
 "url": "https://coinmarketcap.com/currencies/ethereum/"
+
 "url": "https://www.coingecko.com/en/coins/ethereum"
 "url": "https://defillama.com/chain/Ethereum"
 "url": "https://dappradar.com/chain/ethereum"
