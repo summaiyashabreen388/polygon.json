@@ -140,6 +140,8 @@ If one or more interior angles of a polygon are more than 180 degrees, then it i
 The formulas of area and perimeter for different polygons are given below:
 
 NAME OF POLYOGN:  Triangle 
+
 Area:             ½ x (base) x (height)
+
 PERIMETE:         a+b+c
 
