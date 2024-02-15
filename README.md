@@ -141,4 +141,15 @@ The formulas of area and perimeter for different polygons are given below:
 
 1.Triangle: Area= ½ x (base) x (height) , Perimeter= a+b+c.
 
-2
+2.Square: Area= side2 , Perimeter= 4 (side).
+
+3.Rectangle: Area= Length x Breadth	, Perimeter= 2(length+breadth).
+
+4.Parallelogram: Area= Base x Height , Perimeter= 2(Sum of pair of adjacent sides).
+
+5.Trapezoid: Area= 1/2 (sum of parallel side)height , Perimeter= Sum of all sides.
+
+6.Rhombus: Area= ½ (Product of diagonals) ,  Perimeter= 4 x side.
+
+7.Hexagon: Area= 3√3/2 (side)2 , Perimeter= Sum of all six sides.
+
