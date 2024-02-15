@@ -11,48 +11,91 @@
 "url": "https://www.tradingview.com/symbols/ETHUSD/"
 
 "url": "https://www.coindesk.com/price/ethereum/"
+
 "url": "https://www.investing.com/crypto/ethereum/eth-usd"
+
 "url": "https://www.marketwatch.com/investing/cryptocurrency/ethusd"
+
 "url": "https://finance.yahoo.com/quote/ETH-USD"
+
 "url": "https://etherscan.io/"
+
 "url": "https://blockchair.com/ethereum"
+
 "url": "https://parsec.fi/"
+
 "url": "https://www.oklink.com/eth"
+
 "url": "https://ethplorer.io/"
+
 "url": "https://eth.tokenview.io/"
+
 "url": "https://3xpl.com/ethereum"
+
 "url": "https://phalcon.blocksec.com/explorer"
+
 "url": "https://openchain.xyz/trace"
+
 "url": "https://dashboard.tenderly.co/explorer"
+
 "url": "https://app.dedaub.com/?network=ethereum"
+
 "url": "https://layerzero.network/"
+
 "url": "https://axelar.network/"
+
 "url": "https://hop.exchange/"
+
 "url": "https://connext.network/"
+
 "url": "https://wormhole.com/"
+
 "url": "https://stargate.finance/"
+
 "url": "https://ethereum.org/en/bug-bounty/"
+
 "url": "https://ethereum.org/en/community/grants/"
+
 "url": "https://goerlifaucet.com"
+
 "url": "https://faucet.quicknode.com/ethereum"
+
 "url": "https://www.allthatnode.com/faucet/ethereum.dsrv"
+
 "url": "https://holesky-faucet.pk910.de/"
+
 "url": "https://chainlist.org/chain/1"
+
 "url": "https://ethereum.org/wallets/find-wallet"
+
 "url": "https://metamask.io/"
+
 "url": "https://safe.global/"
+
 "url": "https://rainbow.me/"
+
 "url": "https://www.coinbase.com/wallet"
+
 "url": "https://www.okx.com/web3"
+
 "url": "https://trezor.io/"
+
 "url": "https://www.ledger.com/"
+
 "url": "https://chain.link/"
+
 "url": "https://bandprotocol.com/"
+
 "url": "https://tellor.io/"
+
 "url": "https://api3.org/"
+
 "url": "https://razor.network/"
+
 "url": "https://diadata.org/"
+
 "url": "https://provable.xyz/"
+
 "url": "https://chroniclelabs.org/"
 
 
