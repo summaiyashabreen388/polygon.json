@@ -100,7 +100,6 @@
 
 
 POLYGON:
-
 A Polygon is a closed figure made up of line segments in a two-dimensional plane. 
 
 POLYGON SHAPE:
