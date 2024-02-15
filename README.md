@@ -139,11 +139,18 @@ If one or more interior angles of a polygon are more than 180 degrees, then it i
 
 The formulas of area and perimeter for different polygons are given below:
 
-NAME OF POLYGON:          AREA:	                                       PERIMETER:
+NAME OF POLYGON:          AREA:	                                       PERIMETER:             
+
 Triangle         	        ½ x (base) x (height)	                       a+b+c
+
 Square	                  side2	                                       4 (side)
+
 Rectangle	                Length x Breadth	                           2(length+breadth)
+
 Parallelogram	            Base x Height	                               2(Sum of pair of adjacent sides)
+
 Trapezoid	                Area = 1/2(sum of parallel side)height       Sum of all sides
+
 Rhombus            	      ½ (Product of diagonals)	                   4 x side
+
 Hexagon	                  3√3/2 (side)2	                               Sum of all six sides
