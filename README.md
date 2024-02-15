@@ -100,33 +100,45 @@
 
 
 POLYGON:
+
 A Polygon is a closed figure made up of line segments in a two-dimensional plane. 
 
 POLYGON SHAPE:
+
 By definition, we know that the polygon is made up of line segments. Below are the shapes of some polygons that are enclosed by the different number of line segments.
 
 ![polygon-1](https://github.com/summaiyashabreen388/polygon.json/assets/160031227/1b2bd57f-7bff-4be2-82d1-40083e8f15f7)
 
 POLYGON TYPES:
+
 Depending on the sides and angles, the polygons are classified into different types, namely:
+
 1.Regular Polygon
+
 2.Irregular Polygon
+
 3.Convex Polygon
+
 4.Concave polygon
 
 1.Regular Polygon:
+
 If all the sides and interior angles of the polygon are equal, then it is known as a regular polygon. The examples of regular polygons are square, equilateral triangle, etc.
 
 2.Irregular Polygon:
+
 If all the sides and the interior angles of the polygon are of different measure, then it is known as an irregular polygon. This means that either the sides are of different lengths or the angles are different, which is sufficient for a polygon to be said to be irregular. For example, a scalene triangle, a rectangle, a kite, etc.
 
 3.Convex Polygon:
+
 If all the interior angles of a polygon are strictly less than 180 degrees, then it is known as a convex polygon. The vertex will point outwards from the centre of the shape.
 
 4.Concave Polygon:
+
 If one or more interior angles of a polygon are more than 180 degrees, then it is known as a concave polygon. A concave polygon can have at least four sides. The vertex points towards the inside of the polygon.
 
 The formulas of area and perimeter for different polygons are given below:
+
 NAME OF POLYGON:          AREA:	                                       PERIMETER:
 Triangle         	        ½ x (base) x (height)	                       a+b+c
 Square	                  side2	                                       4 (side)
